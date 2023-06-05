@@ -1,0 +1,30 @@
+[
+    {
+        "pageid": 0,
+        "title": "Taipei",
+        "description": "Capital city of Taiwan",
+        "visited": false,
+        "image": "taipei"
+    },
+    {
+        "pageid": 1,
+        "title": "Kaohsiung",
+        "description": "Beautiful southern city",
+        "visited": true,
+        "image": "kaohsiung"
+    },
+    {
+        "pageid": 2,
+        "title": "Tainan",
+        "description": "Old city full of history",
+        "visited": false,
+        "image": "tainan"
+    },
+    {
+        "pageid": 3,
+        "title": "Taitung",
+        "description": "Beautiful city on the eastern coast",
+        "visited": false,
+        "image": "taitung"
+    }
+]
